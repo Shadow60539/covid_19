@@ -1,3 +1,6 @@
+
+[![support](https://img.shields.io/badge/plateform-flutter%7Candroid%20studio-9cf?style=plastic&logo=appveyor)](https://github.com/Shadow60539/covid19)
+
 # Covid19 App
 
 It's a simple app to visualize charts and statistics about the current Covid-19 emergency. <br>
@@ -6,3 +9,4 @@ All the data visualized in the app is taken from the website [Corona lmao ninja]
 
 ## UI
 
+![image](images/bg.jpg)
