@@ -1,16 +1,7 @@
-# flutterapp
+# Covid19 App
 
-A new Flutter application.
+It's a simple app to visualize charts and statistics about the current Covid-19 emergency. <br>
+It's developed using Flutter and some plugins such as [FlCharts](https://github.com/imaNNeoFighT/fl_chart)<br>
+All the data visualized in the app is taken from the website [corona.lmao.ninja]('https://corona.lmao.ninja/v2/all) 📈<br><br>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## UI
