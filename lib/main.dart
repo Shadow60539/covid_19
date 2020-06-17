@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutterapp/provider/my_data_provider.dart';
-import 'package:flutterapp/screens/global_news.dart';
-import 'package:flutterapp/screens/prevention_page.dart';
 import 'package:flutterapp/screens/welcome_screen.dart';
 import 'package:provider/provider.dart';
 import 'model/district.dart';
